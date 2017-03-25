@@ -2,6 +2,7 @@
 title: 第十届中国R会议（北京）会议通知
 author: 统计之都
 date: '2017-03-24'
+tags: R会议
 ---
 ![](image/thu.png)
 
